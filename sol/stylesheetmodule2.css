@@ -5,13 +5,15 @@
 
 
 h1{
+	margin-top: 40px;
 	text-align: center;
+	font-family: cursive;
 }
 
 
 .row {
 	width: 100%;
-	margin-top: 80px;
+	margin-top: 40px;
 }
 
 h2{
@@ -21,51 +23,66 @@ h2{
 
 
 #chicken{
-	background: turquoise;
+	background: #e75480;
 	color:  #ffffff;
 	float: right;
 	border: solid 1px black;
-	padding: 2px 8px 2px 8px;
+	padding: 3px 15px 3px 15px;
 	clear: both;
 	margin-top: 17px;
+	width: 180px;
+	text-align: center;
 }
 
 #text1{
-	background-color: dimgray;
-	color: yellow;
+	background-color: #808080;
+	color: #000000;
+	font-size: 17px;
+	font-family: serif;
 }
 
 p{
 	border: solid 1px black;
 	padding: 60px 10px 6px 10px;
 }
-#Pizza{
-	color: blueviolet;
-	background-color: limegreen;
+#Beef{
+	color: #ffffff;
+	background-color: #ff0000;
 	float: right;
 	border: solid 1px black;
-	padding: 2px 8px 2px 8px;
+	padding: 3px 15px 3px 15px;
+	clear: both;
 	margin-top: 17px;
+	width: 180px;
+	text-align: center;
 }
 
 #text2
 {
-background-color: peachpuff;
-color: darkred;
+background-color: #808080;
+	color: #000000;
+	font-size: 17px;
+	font-family: serif;
+	font-weight: 20px;
 }
 
 #sushi{
-	color: yellow;
-	background-color: limegreen;
+	color: #000000;
+	background-color: khaki;
 	float: right;
 	border: black 1px solid;
 	padding: 2px 8px 2px 8px;
 	margin-top: 17px;
+	width: 180px;
+	text-align: center;
+	clear: both;
 }
 
 #text3{
-background-color: papayawhip;
-color: black;
+	background-color: #808080;
+	color: #000000;
+	font-size: 17px;
+	font-family: serif;
 }
 
 /*********** FOR DESKTOPS OR LARGE DEVICES ***********/

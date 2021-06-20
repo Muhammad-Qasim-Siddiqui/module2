@@ -24,7 +24,7 @@ h2{
 
 #chicken{
 	background: #e75480;
-	color:  #ffffff;
+	color:  #000000;
 	float: right;
 	border: solid 1px black;
 	padding: 3px 15px 3px 15px;
@@ -45,9 +45,9 @@ p{
 	border: solid 1px black;
 	padding: 60px 10px 6px 10px;
 }
-#Beef{
+#Pasta{
 	color: #ffffff;
-	background-color: #ff0000;
+	background-color: #a73333;
 	float: right;
 	border: solid 1px black;
 	padding: 3px 15px 3px 15px;
@@ -63,7 +63,6 @@ background-color: #808080;
 	color: #000000;
 	font-size: 17px;
 	font-family: serif;
-	font-weight: 20px;
 }
 
 #sushi{
